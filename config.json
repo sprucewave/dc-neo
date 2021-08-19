@@ -1,0 +1,9 @@
+{
+    "client": {
+        "token": "TOKEN",
+        "prefix": "."
+    },
+    "database": {
+        "path": "MONG_DB_PATH"
+    }
+}
